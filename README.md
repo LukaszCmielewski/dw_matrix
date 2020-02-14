@@ -12,3 +12,5 @@ Połączenie GitHub z Colab / connection GitHub with Colab
 Odczytanie danych z: *Men's Shoe Prices* ze strony: data.world / Read Men's Shoe Prices from data.world
 * część 4 /part 4.
 Prosty model z: *Men's Shoe Prices* ze strony: data.world / Simple model *Men's Shoe Prices* from data.world
+* część 5 /part 5.
+Analiza cech z: *Men's Shoe Prices* ze strony: data.world / Analysis features *Men's Shoe Prices* from data.world
